@@ -1,0 +1,6 @@
+---
+applications:
+- name: ContextSensitive
+  memory: 512M 
+  host: ContextSensitiveHost
+  path: target/ContextSensitive.war
